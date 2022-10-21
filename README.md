@@ -14,7 +14,7 @@ Pre-Authorization: means holding an amount of money from your account, e.g Hotel
 
 VOID: this means canceling the transaction, e.g if the seller entered the wrong amount.
 
-============================================================================================
+
 
 Project Requirements:
 
@@ -30,7 +30,7 @@ Project Requirements:
 
 6- Testing the application.
 
-============================================================================================
+
 
 Project flow chart:
 
