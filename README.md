@@ -11,7 +11,7 @@ REFUND: this means that you will return something and wants your money back to y
 Pre-Authorization: means holding an amount of money from your account, e.g Hotel reservation.
 VOID: this means canceling the transaction, e.g if the seller entered the wrong amount.
 
-=======================================================================================================================================================================
+==========================================================================================================
 
 Project Requirements:
 
